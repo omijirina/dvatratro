@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "HIDRATANTES Y CREMAS"
-  content : "Hidratación revitalizante y revitalizante de día y de noche"
+  title : "Crema de cuidado antiedad con efecto compensador para pieles secas"
+  content : "antiedad, restaurador, lifting, antiarrugas, nutrición, antimanchas, hidratante, fortalecedor, calmante"
   image : "images/banner.png"
   # button
   button:
@@ -18,8 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "La crema hidratante Hydreane Legere de la marca francesa de cosmética médica La Roche-Posay está diseñada para reducir la sensibilidad de la piel y eliminar el problema de la deshidratación.La fórmula revolucionaria de la crema presentada contiene exclusivos agentes hidrofijantes que penetran en las capas más profundas de la epidermis y proporcionan un aumento en el nivel de saturación de humedad. Además, los hidrofixers en combinación con agua termal calman y relajan la piel, reducen su sensibilidad.
-La consistencia ultraligera y sin aceite de Hydreane Legere está formulada teniendo en cuenta las características"
+  content : "Los especialistas de la empresa francesa Vichy han logrado un progreso asombroso en la creación de cosméticos antienvejecimiento. Los productos de este fabricante no solo hacen que las mujeres sean más encantadoras y hermosas, sino que también rejuvenecen la piel durante mucho tiempo, debido al efecto sobre la estructura de las células de los tejidos y la velocidad de su renovación."
   image : "images/about.png"
 
 
@@ -58,9 +57,7 @@ advantage:
   advantageList:
     # advantage list loop
     - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
     - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
     - listItem : "Increasing Glow Of Face"
     - listItem : "More Beautiful Face Skin"
 
@@ -69,8 +66,7 @@ advantage:
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  content : "Aplicar todas las mañanas sobre rostro y cuello previamente limpios."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -91,26 +87,20 @@ testimonial:
     - name : "Angela Perara"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Crema bastante buena. Olor agradable y ligero, económico de usar, la piel es agradable al tacto después de su uso. Lo uso por la mañana y por la noche, la piel mixta se ha vuelto más mate."
+      content : "Le tomé una crema a mi suegra, a ella le gustó mucho."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Riya Ventilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "Lo he estado usando durante una semana, estoy satisfecho con la crema, la sequedad de la piel ha desaparecido un poco, la piel del rostro se ve fresca, ¡gracias por el producto!"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "john Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "Nunca saco conclusiones precipitadas. La crema es buena, pero si tu piel está más cerca de lo normal, ¡elige una crema para lo normal! Pedí un perfume Tresor. Preocupado de que enviaran una falsificación. ¡No debería haberme preocupado! Almacene en un nivel, ¡siga así! ¡Muchas gracias!"
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Voy a comprar por segunda vez y compraré más. Muy buena crema, perfecta, el estado de la piel ha mejorado."
-      rating : "four" # rating star, one to five
+
