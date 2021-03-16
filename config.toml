@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://dvatratro.vercel.app/"
 languageCode = "en"
 title = "Dvatratro"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34660680961"
 email = "vlespoin@email.com"
 location = "46019 València, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://dvatratro.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
